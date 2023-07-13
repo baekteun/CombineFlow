@@ -1,3 +1,3 @@
 public protocol Step {}
 
-struct NoneStep: Step {}
+public struct NoneStep: Step {}
